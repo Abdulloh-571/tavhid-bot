@@ -1,0 +1,421 @@
+{
+  "users": {
+    "8929299595": {
+      "name": "عَبْدُاللّٰه",
+      "xp": 0,
+      "seen_quizzes": [],
+      "seen_rebuses": [],
+      "updated_at": "2026-11-25T08:06:49.946404"
+    },
+    "8687276345": {
+      "name": "Ibrohim Tölaganov",
+      "xp": 0,
+      "seen_quizzes": [],
+      "seen_rebuses": [],
+      "updated_at": "2026-11-25T08:23:47.401372"
+    }
+  },
+  "custom_books": [
+    {
+      "title": "Yusufning qizi",
+      "author": "Josim Al-Umron",
+      "category": "Foydalanuvchi",
+      "summary": "Asar vitiligo kasalligiga chalingan bir qizning hayoti, uning boshidan kechirgan sinovlari va taqdiri haqida hikoya qiladi.",
+      "pdf_file_id": "BQACAgUAAxkBAAIDo2sGq6BIVvlAS2Ckiitvlb-Y4hYcAALuKAACqr_YVutSs10HfMtMPQQ",
+      "added_by": 8929299595
+    },
+    {
+      "title": "Koʻzlaringni haromdan saqla",
+      "author": "Merve Oʻzjan",
+      "category": "Kutubxona",
+      "summary": "Bu kitob ko‘z va qalb pokligini saqlash, nafsni tarbiyalash, haromga nazar solishdan tiyilish va insonning o‘zini nazorat qilishi haqida.\nKitob insonni faqat ko‘zini emas, qalbini ham asrashga, har bir qarash va tanlovning qalbga ta’sirini anglashga undaydi. Unda hayo, ichki poklik, nafs bilan kurashish va Allohga yaqin bo‘lish kabi mavzular yoritilgan.\nKo‘zni haromdan saqlash — shunchaki qarashni to‘xtatish emas, balki qalbni ham keraksiz narsalardan asrashdir.\nAgar xohlasang, shu kitob uchun Telegram kanalga qo‘yadigan qisqa, chiroyli tavsif ham yozib beraman.",
+      "pdf_file_id": "BQACAgIAAxkBAAIEBWsGxG0kpo0rpVFEF8FfZM-7O8xXAAKa1gACGB_oSuiacs5fNHrDPQQ",
+      "added_by": 8929299595
+    },
+    {
+      "title": "📚 Fotimaning bolasi",
+      "author": "✍️ Жосим ал Умрон",
+      "category": "Kutubxona",
+      "summary": "Fotimaning bolasi — ona va farzand o‘rtasidagi munosabatlar, mehr, tushunish va sabr haqida hikoya qiluvchi, insonni o‘z qalbiga nazar solishga undaydigan asar.\nKitob orqali farzandning ichki dunyosini tushunish, unga mehr bilan yondashish va har bir bolaning o‘ziga xosligini anglash naqadar muhimligini his qilasiz. Ba’zan bolaga eng kerakli narsa tanbeh emas, balki uni tushunadigan qalbdir.\nBu kitob insonni mehr, sabr va e’tibor haqida chuqurroq o‘ylashga chorlaydi.",
+      "pdf_file_id": "BQACAgIAAxkBAAIELGsGyUybr-VI04_yP6S8BoJs-aVOAALergACgtVhSc170BIQyDBXPQQ",
+      "added_by": 8929299595
+    },
+    {
+      "title": "📚 1500 yillik mahbuslar",
+      "author": "✍️ Hoshim Abdulloh",
+      "category": "Kutubxona",
+      "summary": "📖 1500 yillik mahbuslar\nInsoniyat, erkinlik va qullik haqida hikoya qiluvchi, o‘quvchini chuqur o‘yga toldiradigan asar. Kitobda odamlarning Titan sayyorasida 1500 yil davomida qullikda yashagani tasvirlanadi.\nAsarda zulm, qo‘rquv, erkinlikka intilish va insonning o‘z taqdiriga egalik qilish masalalari yoritiladi. U inson qadr-qimmati, ozodlik va adolat haqida fikr yuritishga undaydi.\nBa’zan inson eng katta mahbuslikni temir panjara ortida emas, qo‘rquv ichida yashaydi.",
+      "pdf_file_id": "BQACAgIAAxkBAAIENmsGyb2w_J_MKJxS82CyKg2pp5oUAAKWsgACHhaBSjr7BTH93NLKPQQ",
+      "added_by": 8929299595
+    }
+  ],
+  "tracked_messages": {
+    "-1004410723926": {
+      "8687276345": [
+        26572
+      ]
+    }
+  },
+  "scores": {
+    "8929299595": 8,
+    "8687276345": 6
+  },
+  "zakovat_wins": {},
+  "used_tests": {
+    "8929299595:🌍 Geografiya": [
+      3,
+      2,
+      4,
+      1,
+      0
+    ],
+    "8929299595:💻 Dasturlash": [
+      3
+    ],
+    "8929299595:⚛️ Fizika": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "priv:8929299595:🌍 Geografiya": [
+      "🌍 Geografiya:4",
+      "🌍 Geografiya:3"
+    ],
+    "priv:8687276345:🔀 Aralash": [
+      "💻 Dasturlash:0"
+    ],
+    "priv:8687276345:💻 Dasturlash": [
+      "💻 Dasturlash:1"
+    ],
+    "priv:8687276345:🌍 Geografiya": [
+      "🌍 Geografiya:0",
+      "🌍 Geografiya:2",
+      "🌍 Geografiya:1",
+      "🌍 Geografiya:3",
+      "🌍 Geografiya:4"
+    ],
+    "priv:8687276345:⚛️ Fizika": [
+      "⚛️ Fizika:1"
+    ]
+  },
+  "used_zakovat": {},
+  "tracked": {
+    "-1004410723926:8929299595": [
+      26579,
+      26587,
+      26591,
+      26594,
+      26604,
+      26623,
+      26625,
+      26629,
+      26639,
+      26642,
+      26652,
+      26654,
+      26657,
+      26660,
+      26667,
+      26673,
+      26677,
+      26680,
+      26682,
+      26684,
+      26701,
+      26765,
+      26770
+    ],
+    "-1003308634755:8330123122": [
+      269839
+    ],
+    "-1003308634755:8589548905": [
+      267749,
+      267916
+    ],
+    "-1003308634755:1780427938": [
+      268453
+    ],
+    "-1004410723926:8804202941": [
+      26780,
+      26781
+    ],
+    "-1003719551681:8929299595": [
+      7767,
+      7770,
+      7773,
+      7778,
+      7782,
+      7784,
+      7787,
+      7790
+    ],
+    "-1003308634755:8954419338": [
+      277111,
+      275282
+    ],
+    "-1003308634755:9075151660": [
+      278300
+    ],
+    "-1003719551681:777000": [
+      7631,
+      7632
+    ],
+    "-1003308634755:8679624271": [
+      280661
+    ],
+    "-1003308634755:8929367362": [
+      280773
+    ],
+    "-1004410723926:7702999316": [
+      26533,
+      26525,
+      26532,
+      26528,
+      26530,
+      26545,
+      26535,
+      26582,
+      26585,
+      26590,
+      26597,
+      26600,
+      26602,
+      26606,
+      26609,
+      26612,
+      26614,
+      26616,
+      26619,
+      26632,
+      26643,
+      26645
+    ],
+    "-1004410723926:7296519509": [
+      26524,
+      26534,
+      26531,
+      26526,
+      26527,
+      26529,
+      26546,
+      26551,
+      26521
+    ],
+    "-1003719551681:8687276345": [
+      7656,
+      7657,
+      7660,
+      7668,
+      7669,
+      7672,
+      7674,
+      7677,
+      7679,
+      7681,
+      7682,
+      7684,
+      7687,
+      7688,
+      7690,
+      7694,
+      7696,
+      7698,
+      7701,
+      7705,
+      7720,
+      7721,
+      7725,
+      7732,
+      7734,
+      7735,
+      7737,
+      7739,
+      7776,
+      7779,
+      7781,
+      7785,
+      7788
+    ],
+    "-1004410723926:8687276345": [
+      26570,
+      26618,
+      26664,
+      26670,
+      26675,
+      26686,
+      26689,
+      26703,
+      26710,
+      26714,
+      26720
+    ],
+    "-1004410723926:8954419338": [
+      26588
+    ],
+    "-1004410723926:9130315431": [
+      26638,
+      26641
+    ],
+    "-1003308634755:8174825759": [
+      283296
+    ],
+    "-1004410723926:777000": [
+      26784
+    ]
+  },
+  "mazgila": {},
+  "book_contributions": {
+    "8929299595": 6
+  },
+  "xp": {
+    "8929299595": 661,
+    "8330123122": 1,
+    "8589548905": 2,
+    "1780427938": 1,
+    "8804202941": 95,
+    "8687276345": 197,
+    "8954419338": 3,
+    "9075151660": 1,
+    "777000": 3,
+    "8679624271": 1,
+    "8929367362": 1,
+    "7702999316": 22,
+    "7296519509": 9,
+    "9130315431": 2,
+    "8174825759": 1
+  },
+  "messages_count": {
+    "8929299595": 147,
+    "8330123122": 1,
+    "8589548905": 2,
+    "1780427938": 1,
+    "8804202941": 95,
+    "8954419338": 3,
+    "9075151660": 1,
+    "777000": 3,
+    "8679624271": 1,
+    "8929367362": 1,
+    "7702999316": 22,
+    "7296519509": 9,
+    "8687276345": 46,
+    "9130315431": 2,
+    "8174825759": 1
+  },
+  "used_group_tests": {
+    "-1004410723926": [
+      23,
+      21,
+      18,
+      4
+    ]
+  },
+  "favorites": {
+    "8929299595": [],
+    "8687276345": []
+  },
+  "custom_hadiths": [],
+  "lang": {
+    "8929299595": "🇷🇺"
+  },
+  "used_rebus": {
+    "rebus:8929299595": [
+      4
+    ]
+  },
+  "notes": {},
+  "daily_topic": {},
+  "settings": {
+    "8929299595": {
+      "lang": "🇺🇿 O‘zbek",
+      "style": "Qisqa",
+      "notifications": true
+    },
+    "8687276345": {
+      "lang": "🇺🇿 O‘zbek",
+      "style": "Batafsil",
+      "notifications": true
+    }
+  },
+  "used_mazgila": {
+    "-1003719551681:8687276345": [],
+    "-1003719551681:8929299595": [
+      "Bu gapga alohida sharh yozish ham bir san’at.",
+      "Qitmir Veritas kuzatuvida: bu safar mantiq ta’tilda.",
+      "O‘ylading-u, lekin mantiq bilan sal kelisholmay qolding-ov 😏",
+      "To‘g‘ri yo‘l burchakda turibdi, sen esa qarama-qarshi tomonga qarayapsan.",
+      "Hozirgi xulosang bilan shaxmat taxtasida piyoda ham kuladi.",
+      "Tez javob berding, lekin bir soniya nafas rostlasang yutarding."
+    ]
+  },
+  "chat_recent_msgs": {
+    "-1003719551681": [
+      7770,
+      7773,
+      7776,
+      7778,
+      7779,
+      7781,
+      7782,
+      7784,
+      7785,
+      7787,
+      7788,
+      7790
+    ],
+    "-1004410723926": [
+      26680,
+      26682,
+      26684,
+      26686,
+      26689,
+      26693,
+      26695,
+      26698,
+      26701,
+      26703,
+      26707,
+      26709,
+      26710,
+      26713,
+      26714,
+      26717,
+      26719,
+      26720,
+      26721,
+      26722,
+      26724,
+      26726,
+      26729,
+      26731,
+      26733,
+      26735,
+      26737,
+      26739,
+      26741,
+      26743,
+      26745,
+      26747,
+      26749,
+      26752,
+      26754,
+      26756,
+      26759,
+      26761,
+      26763,
+      26765,
+      26767,
+      26770,
+      26773,
+      26775,
+      26777,
+      26780,
+      26781,
+      26784
+    ]
+  },
+  "mazgila_targets": {},
+  "owners": [
+    8687276345
+  ]
+}
